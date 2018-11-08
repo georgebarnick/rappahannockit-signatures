@@ -31,30 +31,22 @@ if ( $default != 1 ) {
 		<table>
 			<tr>
 				<td style="padding-right:5px;">
-					<img src="//i.imgur.com/WjjAVKX.gif" alt="Rappahannock IT logo" width="80" height="80" />
+					<img src="https://www.rappahannockit.com/signature.gif" alt="Rappahannock IT logo" width="80" height="80" />
 				</td>
 				<td>
 					<span style="font-weight:bold;font-family:sans-serif;color:#888;">
 						<?php echo $name; ?>
 					</span>
 					<br />
-					<span style="font-family:sans-serif;color:#888;">
-						<?php echo $title; ?>, Rappahannock IT
-					</span>
+					<span style="font-family:sans-serif;color:#888;"><?php echo $title; ?>, Rappahannock IT</span>
 					<br />
-					<span style="font-family:sans-serif;color:#aaa;">
-						1011-A Princess Anne Street, Fredericksburg, VA 22401
-					</span>
+					<span style="font-family:sans-serif;color:#aaa;">1011-A Princess Anne Street, Fredericksburg, VA 22401</span>
 					<br />
-					<span style="font-family:sans-serif;color:#aaa;">
-						<?php echo $phone; ?>
-					</span>
+					<span style="font-family:sans-serif;color:#aaa;"><?php echo $phone; ?></span>
 					&nbsp;
 					<span style="font-family:sans-serif;color:#f37d49;">|</span>
 					&nbsp;
-					<a href="https://www.rappahannockit.com" target="_blank" style="font-family:sans-serif;color:#aaa;text-decoration:none;">
-						www.rappahannockit.com
-					</a>
+					<a href="https://www.rappahannockit.com" target="_blank" style="font-family:sans-serif;color:#aaa;text-decoration:none;">www.rappahannockit.com</a>
 				</td>
 			</tr>
 		</table>
