@@ -10,24 +10,14 @@ switch ( $_SERVER['QUERY_STRING'] ) {
 		$title = "Director of Operations";
 		$phone = "540.940.2773 x101";
 		break;
-	case "cmaconaughey":
-		$name = "Christopher Maconaughey";
-		$title = "Technician";
-		$phone = "540.940.2773 x102";
-		break;
-	case "bkennedy":
-		$name = "Brandon Kennedy";
-		$title = "Sales Executive";
-		$phone = "540.940.2773 x102";
-		break;
-	case "fkhan":
-		$name = "Faiza Khan";
-		$title = "Tier 2 Engineer";
+	case "asulser":
+		$name = "Andrew Sulser";
+		$title = "Tier 1 Engineer";
 		$phone = "540.940.2773 x102";
 		break;
 	case "mpierce":
-		$name = "Mike Pierce";
-		$title = "Sales Representative";
+		$name = "Brandyn Rodriguez";
+		$title = "Tier 1 Engineer";
 		$phone = "540.940.2773 x103";
 		break;
 	default:
