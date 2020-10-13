@@ -15,9 +15,9 @@ switch ( $_SERVER['QUERY_STRING'] ) {
 		$title = "Tier 1 Engineer";
 		$phone = "540.940.2773 x102";
 		break;
-	case "brodriguez":
-		$name = "Brandyn Rodriguez";
-		$title = "Tier 1 Engineer";
+	case "abarrante":
+		$name = "Anthony Barrante";
+		$title = "Help Desk Analyst Tier 2";
 		$phone = "540.940.2773 x103";
 		break;
 	case "cmaconaughey":
