@@ -30,7 +30,7 @@ switch ( $_SERVER['QUERY_STRING'] ) {
 		$title = "Office Manager";
 		$phone = "540.940.2773 x105";
 		break;
-	case "gmckinkley":
+	case "gmckinley":
 		$name = "Grayson McKinley";
 		$title = "Help Desk Analyst Tier 1";
 		$phone = "540.940.2773 x106";
